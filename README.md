@@ -3,7 +3,7 @@
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;QUEEN+RIAS;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+TOXXIC+BOY;RELEASED+12.09.24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;QUEEN+RIAS;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+TOXXIC+BOY;RELEASED+28.09.24" alt="Typing SVG" /></a>
   </p>
     <a href="https://ibb.co/MsM8G1b"><img src="https://i.ibb.co/bPzH2vx/IMG-20240906-154743-430.jpg" alt="IMG-20240906-154743-430" border="0"></a>
 <p align="center">
