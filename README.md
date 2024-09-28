@@ -53,8 +53,7 @@ IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY
     
 ### DEPLOY ON CODESPACE 
 1. Deploy. `Free`
-Add session Id to config.js and then deploy to codespace
-    <br>
+<br> Just Type npm start and add your number
     <a href='https://github.com/codespaces' target="_blank"><img alt='Codespace' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=codespace&logoColor=white'/></a>
 
 ***
