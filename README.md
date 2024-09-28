@@ -23,6 +23,7 @@
 ### 2. GET CREDS.JSON HERE 
 
 <a href='https://toxxic-site.vercel.app/' target="_blank"><img alt='GET CREDS.JSON' src='https://img.shields.io/badge/Click here to get your Creds file-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>    
 
 ### STEP 2
 ADD CREDS.JSON FILE TO SESSION FOLDER AND DEPLOY BELOW
@@ -58,6 +59,7 @@ IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY
 
 ***
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>    
 
 ### CONTRIBUTIONS 
 -Contributions to QUEEN-RIAS are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
@@ -67,6 +69,7 @@ IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY
 
 
 ***
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>    
 
 ### LICENSE 
 -The QUEEN-RIAS is released under the [MIT License](https://opensource.org/licenses/MIT).
