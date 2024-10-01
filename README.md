@@ -48,7 +48,7 @@ IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY
  ## DEPLOY ON PANEL
  ### To DEPLOY ON PANEL DOWNLOAD THIS REPO ZIP AND ADD TO YOUR PANEL
  <br>
-    <a href='https://www.mediafire.com/file/mx0sn066uddksqq/rias_Gremory_V2_enc.zip/file' target="_blank"><img alt='DOWNLOAD ZIP' src='https://img.shields.io/badge/-Download-red?style=for-the-badge&logo=mediafire&logoColor=white'/></a>
+    <a href='https://github.com/Toxic1239/Queen-RiasV2/archive/refs/heads/main.zip' target="_blank"><img alt='DOWNLOAD ZIP' src='https://img.shields.io/badge/-Download-red?style=for-the-badge&logo=mediafire&logoColor=white'/></a>
  <br>
     <a href='https://bot-hosting.net/?aff=1249249036259823733' target="_blank"><img alt='PANEL' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=WhatsApp&logoColor=white'/></a>
     
