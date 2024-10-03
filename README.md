@@ -23,27 +23,20 @@
 ### 2. GET CREDS.JSON HERE 
 
 <a href='https://toxxic-site.vercel.app/' target="_blank"><img alt='GET CREDS.JSON' src='https://img.shields.io/badge/Click here to get your Creds file-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a> 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>    
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>    
 
 ### STEP 2
 ADD CREDS.JSON FILE TO SESSION FOLDER AND DEPLOY BELOW
-
-### DEPLOY ON SCALINGO
-
-1. If you don't have an account in Scalingo, create one and deploy.
-    <br>
-    <a href='https://auth.scalingo.com/users/sign_in' target="_blank"><img alt='REPLIT' src='https://img.shields.io/badge/-DEPLOY-orange?style=for-the-badge&logo=scalingo&logoColor=white'/></a>
-
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+DEPLOYMENT+PROCESS" alt="Typing SVG" /></a>
+  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+  
 ### DEPLOY ON REPLIT
 IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY 
     <br>
     <a href='https://replit.com/github/Toxic1239/Queen-RiasV2' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
     
- ### DEPLOY ON RAILWAY 
-1. Deploy.
-    <br>
-    <a href='https://railway.com/github/Toxic1239/Queen-RiasV2' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=render&logoColor=white'/></a>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+ PANEL+DEPLOYMENT" alt="Typing SVG" /></a>
@@ -64,6 +57,7 @@ IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY
     <a href='https://bot-hosting.net/?aff=1249249036259823733' target="_blank"><img alt='PANEL' src='https://img.shields.io/badge/-Deploy On Panel-green?style=for-the-badge&logo=WhatsApp&logoColor=white'/></a>
 
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+ FOR TERMUX DEPLOYMENT ⟱" alt="Typing SVG" /></a>
 
