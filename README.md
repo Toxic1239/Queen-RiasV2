@@ -45,12 +45,45 @@ IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY
     <br>
     <a href='https://railway.com/github/Toxic1239/Queen-RiasV2' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=render&logoColor=white'/></a>
 
- ## DEPLOY ON PANEL
- ### To DEPLOY ON PANEL DOWNLOAD THIS REPO ZIP AND ADD TO YOUR PANEL
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+ PANEL+DEPLOYMENT" alt="Typing SVG" /></a>
+ 
+  ```bash
+  * upload the Queen Rias V2 Zip
+  * unarchive the zip
+  * delete the zip 
+  * move the files to ../
+* Go to console and start 
+* wait for 3mins and your bot starts running
+* add your WhatsApp number and link the pair code to your number
+* Bot Connected
+```
+<br>
+    <a href='https://github.com/Toxic1239/Queen-RiasV2/archive/refs/heads/main.zip' target="_blank"><img alt='DOWNLOAD ZIP' src='https://img.shields.io/badge/-Download Zip File-red?style=for-the-badge&logo=mediafire&logoColor=white'/></a>
  <br>
-    <a href='https://github.com/Toxic1239/Queen-RiasV2/archive/refs/heads/main.zip' target="_blank"><img alt='DOWNLOAD ZIP' src='https://img.shields.io/badge/-Download-red?style=for-the-badge&logo=mediafire&logoColor=white'/></a>
- <br>
-    <a href='https://bot-hosting.net/?aff=1249249036259823733' target="_blank"><img alt='PANEL' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=WhatsApp&logoColor=white'/></a>
+    <a href='https://bot-hosting.net/?aff=1249249036259823733' target="_blank"><img alt='PANEL' src='https://img.shields.io/badge/-Deploy On Panel-green?style=for-the-badge&logo=WhatsApp&logoColor=white'/></a>
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+ FOR TERMUX DEPLOYMENT ⟱" alt="Typing SVG" /></a>
+
+```bash
+apt update
+apt upgrade
+pkg update && pkg upgrade
+pkg install bash
+pkg install libwebp
+pkg install git -y
+pkg install nodejs -y 
+pkg install ffmpeg -y 
+pkg install wget
+pkg install imagemagick -y
+git clone https://github.com/Toxic1239/Queen-RiasV2
+cd Queen-RiasV2
+yarn install
+npm start
+```
+ 
     
 ### DEPLOY ON CODESPACE 
 1. Deploy. `Free`
