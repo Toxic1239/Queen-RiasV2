@@ -1,7 +1,7 @@
 {
-    "name": "Queen Rias V2",
+    "name": "rias-md",
     "version": "2.0.0",
-    "description": "Whatsapp Bot By Toxxic Boy",
+    "description": "WhatsApp Bot Made By Toxxic Md",
     "main": "index.js",
     "type": "commonjs",
     "directories": {
