@@ -18,7 +18,7 @@ global.ownernumber = '2348165846414' //ur owner number
 global.premium = ["2348165846414"] // Premium User
 /*--------------------------------------------*/
 // Type Choose true or false
-global.typemenu = 'v12' // menu type 'v1' => 'v12'
+global.typemenu = 'v12' // menu type 'v1' => 'v12' || set to V1 for IPhone 8 users
 global.typereply = 'v4' // reply type 'v1' => 'v4'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
@@ -29,7 +29,7 @@ global.adminevent = false //show promote/demote message
 global.groupevent = false //show update messages in group chat
 /*-----------------------------------------------------*/
 
-// Telegram
+// Telegram not available rn
 global.OWNER = ["2348165846414"]
 global.OWNER_NAME = "𝑻𝑶𝑿𝑿𝑰𝑪 𝑩𝑶𝒀"
 global.BOT_TOKEN = '-'
@@ -76,10 +76,10 @@ global.hituet = 0
 /*--------------------------------------------*/
 
 // Pterodactyl
-global.domain = 'https://lorenzxz.com' // Isi Domain Lu
-global.apikey = 'ptla_' // Isi Apikey Plta Lu
-global.capikey = 'ptlc_' // Isi Apikey Pltc Lu
-global.eggsnya = '15' // id eggs yang dipakai
+global.domain = 'https://lorenzxz.com' // Domai
+global.apikey = 'ptla_' // Apikey Plta
+global.capikey = 'ptlc_' // Apikey Pltc 
+global.eggsnya = '15' // id eggs 
 global.location = '1' // id location
 
 
@@ -50686,7 +50686,7 @@ global.packname = "𝑹𝒊𝒂𝒔 𝑳𝒐𝒗𝒆𝒔"
 global.author = "𝑻𝒐𝒙𝒙𝒊𝒄"
 global.creator = "2348165846414@s.whatsapp.net"
 global.xchannel = {
-    	jid: '10000000000000000@newsletter'
+    	jid: '120363336528578108@newsletter'
 	}
 	global.ytname = "YT: Toxxic" //ur yt chanel name
 global.socialm = "GitHub: Toxic1239" //ur github or insta name
