@@ -58,6 +58,7 @@ IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+### DEPLOY ON TERMUX
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+ FOR TERMUX DEPLOYMENT ⟱" alt="Typing SVG" /></a>
 
@@ -81,8 +82,11 @@ npm start
     
 ### DEPLOY ON CODESPACE 
 1. Deploy. `Free`
-<br> Just Type npm start and add your number
-    <a href='https://github.com/codespaces' target="_blank"><img alt='Codespace' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=codespace&logoColor=white'/></a>
+```bash
+npm install
+npm start
+```
+   <a href='https://github.com/codespaces' target="_blank"><img alt='Codespace' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=codespace&logoColor=white'/></a>
 
 ***
 
