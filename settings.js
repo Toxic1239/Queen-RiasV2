@@ -18,7 +18,7 @@ global.ownernumber = '2348165846414' //ur owner number
 global.premium = ["2348165846414"] // Premium User
 /*--------------------------------------------*/
 // Type Choose true or false
-global.typemenu = 'v12' // menu type 'v1' => 'v12'
+global.typemenu = 'v1' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
