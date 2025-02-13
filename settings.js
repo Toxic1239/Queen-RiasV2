@@ -9,29 +9,29 @@ const {
 /*--------------------------------------------*/
 
 // Owner
-global.ownername = '𝐓𝐨𝐱𝐱𝐢𝐜 𝐁𝐨𝐲' //ur owner name
+global.ownername = 'Alex' //ur owner name
 /*--------------------------------------------*/
 
 // Information
 global.botname = '𝑸𝒖𝒆𝒆𝒏 𝑹𝒊𝒂𝒔 𝑽𝟐' //ur bot name
-global.ownernumber = '2348165846414' //ur owner number
-global.premium = ["2348165846414"] // Premium User
+global.ownernumber = '2349133626110' //ur owner number
+global.premium = ["2349133626110"] // Premium User
 /*--------------------------------------------*/
 // Type Choose true or false
 global.typemenu = 'v1' // menu type 'v1' => 'v12'
 global.typereply = 'v4' // reply type 'v1' => 'v4'
 global.autoblocknumber = '92' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
-global.welcome = false //welcome/left in groups
-global.anticall = false //bot blocks user when called
-global.autoswview = false //auto status/story view
-global.adminevent = false //show promote/demote message
-global.groupevent = false //show update messages in group chat
+global.welcome = true //welcome/left in groups
+global.anticall = true //bot blocks user when called
+global.autoswview = true //auto status/story view
+global.adminevent = true //show promote/demote message
+global.groupevent = true //show update messages in group chat
 /*-----------------------------------------------------*/
 
 // Telegram
-global.OWNER = ["2348165846414"]
-global.OWNER_NAME = "𝑻𝑶𝑿𝑿𝑰𝑪 𝑩𝑶𝒀"
+global.OWNER = ["2349133626110"]
+global.OWNER_NAME = "Alexander"
 global.BOT_TOKEN = '-'
 global.APIKeys = {
    'https://api.zeeoneofc.my.id': '-',
